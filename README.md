@@ -67,5 +67,5 @@ CS2.0 can be used to **validate satellite-based CyanoHAB products**:
 ## 📬 Contact
 
 For questions, collaborations, or issues, please reach out to:  
-**[Chintan B. Maniyar]**  
-📧 [chintanmaniyar@uga.edu]
+**Chintan B. Maniyar** at
+📧 [chintanmaniyar@uga.edu] OR [cyanotracker@gmail.com]
