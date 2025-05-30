@@ -25,7 +25,7 @@ This repository includes:
 
 ## 📡 Sensor Details
 
-CS2.0 uses the **Hamamatsu C12880MA** mini-spectrometer to capture visible light spectra.
+CS2.0 uses the **Hamamatsu C12880MA** mini-spectrometer to capture hyperspectral light spectra in the range of 380nm - 880nm.
 
 - Records data in **6 channels**, each corresponding to a segment of the full sensor array.  
 - Includes calibration code to convert raw intensity values into continuous **wavelength space** using a polynomial mapping.  
