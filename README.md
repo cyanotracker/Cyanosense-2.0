@@ -1,4 +1,4 @@
-# 🌊 CyanoSense 2.0 (CS2.0) – Low-Cost Spectral Sensor for CyanoHAB Monitoring
+# 🌊 CyanoSense 2.0 (CS2.0) – Low-Cost Hyperspectral Sensor for CyanoHAB Monitoring
 
 **CyanoSense 2.0 (CS2.0)** is a compact, low-cost, open-source spectroradiometer designed to support real-time and offline monitoring of **Cyanobacterial Harmful Algal Blooms (CyanoHABs)** in inland and coastal waters. This repository includes all components needed to **reproduce, assemble, and operate** the CS2.0 device.
 
