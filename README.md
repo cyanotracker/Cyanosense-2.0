@@ -17,7 +17,7 @@ This repository includes:
 4. 📷 **Prototype Pictures** – Reference images of a fully built and field-deployed CS2.0 unit.  
 5. 💾 **Offline Data Download Instructions** – Guidelines for retrieving stored measurements from the device when internet is not available.  
 6. 📂 **Documents Folder** – Contains the **Bill of Materials** (BOM) and **Hamamatsu documentation** including the wavelength space coefficients and sensor specifications.  
-   - 📌 An **exhaustive list of all components used** in this project can be found in the Bill of Materials (`Documents/Bill of Materials` or similar).  
+   - 📌 An **exhaustive list of all components used** in this project can be found in the Bill of Materials (`Documents/Bill of Materials`).  
 
 🎥 A **tutorial video demonstrating the operation** of CS2.0 is also provided: https://youtu.be/9sZjeJtRidM
 
@@ -29,15 +29,15 @@ CS2.0 uses the **Hamamatsu C12880MA** mini-spectrometer to capture hyperspectral
 
 - Records data in **6 channels**, each corresponding to a segment of the full sensor array.  
 - Includes calibration code to convert raw intensity values into continuous **wavelength space** using a polynomial mapping.  
-- Wavelength mapping is implemented using conversion coefficients provided in the Hamamatsu documentation (see `Documents/`) and handled in the included data extraction code (`/code/`).  
-- Real-time or offline data download is managed through the [CoolTerm](https://freeware.the-meiers.org/) serial terminal tool, described in `/offline_data/`.
+- Wavelength mapping is implemented using conversion coefficients provided in the Hamamatsu documentation (see `Documents/`) and handled in the included data extraction code (`/Code/`).  
+- Real-time or offline data download is managed through the [CoolTerm](https://freeware.the-meiers.org/) serial terminal tool, described in `/Offline Mode (Download Data off Prototype)/`.
 
 ---
 
 ## 📚 Usage
 
 To build a CS2.0 prototype and use it for yourself:
-- Follow the mechanical and electrical instructions in the `/mechanical_assembly/` and `/electronics/` folders.
+- Follow the mechanical and electrical instructions in the `/Mechanical Assembly Instructions/` and `/Schematics/` folders.
 - Use `/offline_data/` for accessing data stored during field deployments without real-time upload.
 
 ### 🌐 Satellite Data Validation
