@@ -3,7 +3,7 @@
 **CyanoSense 2.0 (CS2.0)** is a compact, low-cost, open-source spectroradiometer designed to support real-time and offline monitoring of **Cyanobacterial Harmful Algal Blooms (CyanoHABs)** in inland and coastal waters. This repository includes all components needed to **reproduce, assemble, and operate** the CS2.0 device.
 
 > 🛰️ CS2.0 was developed as a complementary in situ validation tool for satellite-based CyanoHAB monitoring.  
-> 📝 A scientific publication describing CS2.0 is currently under review. Please cite the work appropriately (see [Citation coming soon](#-citation)) and refer to the paper for broader scientific context and applications.
+> 📝 A scientific publication describing CS2.0 now published. Please cite the work appropriately (see [Citation section](#-citation)) and refer to the paper for broader scientific context and applications.
 
 ---
 
@@ -51,9 +51,10 @@ CS2.0 can be used to **validate satellite-based CyanoHAB products**:
 
 ## 📄 Citation
 
-> **This sensor and methodology are described in a scientific article currently under peer review.**  
-> If you use or build on this work, **please cite the associated article** (citation will be added once published).  
-> Also, please **refer to the paper** for a deeper understanding of how CS2.0 fits into the broader **CyanoHAB monitoring paradigm**, including its role in supporting satellite remote sensing efforts.
+- **This sensor and methodology are described in a scientific article, now published open access in *ACS Environmental Science and Technology, Water*.**  
+- If you use or build on this work, **please cite the associated article as follows:**<br>
+Maniyar, C.B.; Raviprakash, K.; Kumar, A; Seferian, M. A; Firotentino, I and Mishra, D. R. (2025) **Low-Cost System to Support and Expand Cyanobacterial Harmful Algal Bloom Monitoring with New-Generation Ocean Color Satellites.** *ACS Environmental Science and Technology, Water*. DOI: [10.1021/acsestwater.5c00301](https://doi.org/10.1021/acsestwater.5c00301)   
+- The article provides a deeper understanding of how CS2.0 fits into the broader **CyanoHAB monitoring paradigm**, including its role in supporting satellite remote sensing efforts.
 
 ---
 
