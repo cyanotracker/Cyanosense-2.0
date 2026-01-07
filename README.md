@@ -1,5 +1,10 @@
 # 🌊 CyanoSense 2.0 (CS2.0) – Low-Cost Hyperspectral System for CyanoHAB Monitoring
 
+[![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsestwater.5c00301-blue)](https://doi.org/10.1021/acsestwater.5c00301)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-green.svg)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **CyanoSense 2.0 (CS2.0)** is a compact, low-cost, open-source spectroradiometer designed to support real-time and offline monitoring of **Cyanobacterial Harmful Algal Blooms (CyanoHABs)** in inland and coastal waters. This repository includes all components needed to **reproduce, assemble, and operate** the CS2.0 device.
 
 > 🛰️ CS2.0 was developed as a complementary in situ validation tool for satellite-based CyanoHAB monitoring.  
